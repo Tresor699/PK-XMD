@@ -6,9 +6,9 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "pk~9NIyTD4I#hXSW5cbV9t9Pk7Zu6WNG4Phj4ahPuS25Rzz7NmNaC-w",
+SESSION_ID: process.env.SESSION_ID || "pk~qoRj0ZLJ#9UAoIJuTM9o3rWileuuNeOXchA4B5qcGgyyA-OkYQr0",
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY PK-XMD🤍*",
 WELCOME: process.env.WELCOME || "true",
@@ -22,7 +22,7 @@ STICKER_NAME: process.env.STICKER_NAME || "PK-XMD",
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
-OWNER_NUMBER: process.env.OWNER_NUMBER || "254794146821",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "243835861275",
 OWNER_NAME: process.env.OWNER_NAME || "nova-xmd",
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ pkdriller*",
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/fgiecg.jpg",
